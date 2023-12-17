@@ -1,4 +1,4 @@
-# IS_Lab4_Graph-Searching-Algo-Visualizer
+# IS_Lab5_Graph-Searching-Algo-Visualizer
 ## Searching Algorithm Visualizer
 
 This Python program provides a graphical interface to visualize various searching algorithms on a graph. The program uses the `networkx` library for graph representation, `matplotlib` for visualization, and `tkinter` for the GUI.
